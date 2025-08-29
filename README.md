@@ -92,11 +92,4 @@ Terminal para entrada/saída
 
 (Opcional) IDE como Visual Studio ou VSCode
 
-///
-
-Autoria
-Cauã Lemos Câmara - 24.1.4035
-Kevin Caley Lauar Ferreira Quimatzoyaro - 24.1.4023
-Roberto Antonino Menegassi Filho - 24.1.4002
-
 
